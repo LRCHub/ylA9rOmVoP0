@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Without You",
+  "base_artist": "David Guetta",
+  "createdAt": "2026-03-13T10:47:31.419761Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Picture of Me (Without You)",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/01_A_Picture_of_Me_(Without_You)_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Picture Of Me (Without You) (Album Version)",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/02_A_Picture_Of_Me_(Without_You)_(Album_Version)_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sleep Without You",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/03_Sleep_Without_You_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Without You",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/04_Without_You_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Without You",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/05_Without_You_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Without You (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/06_Without_You_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Movin'on without you",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/07_Movin'on_without_you_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Movin'On Without You",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_Movin'On_Without_You_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Without You",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/09_Without_You_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Won't Go Home Without You",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/10_Won't_Go_Home_Without_You_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Without You",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Without_You_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Falling Without You",
+      "artist": "Longview",
+      "has_synced": false,
+      "path": "select/12_Falling_Without_You_Longview.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Without You",
+      "artist": "Lapalux feat. Kerry Leatham",
+      "has_synced": true,
+      "path": "select/13_Without_You_Lapalux_feat._Kerry_Leatham.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Without You (ft. Kerry Leatham)",
+      "artist": "Lapalux",
+      "has_synced": true,
+      "path": "select/14_Without_You_(ft._Kerry_Leatham)_Lapalux.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Without You",
+      "artist": "Maps",
+      "has_synced": false,
+      "path": "select/15_Without_You_Maps.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/16_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/17_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Without Your Love",
+      "artist": "Conro",
+      "has_synced": true,
+      "path": "select/18_Without_Your_Love_Conro.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Love Without End, Amen",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/19_Love_Without_End,_Amen_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Love Without End, Amen (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/20_Love_Without_End,_Amen_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Love Without End, Amen (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/21_Love_Without_End,_Amen_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Love Without Mercy",
+      "artist": "Lee Roy Parnell",
+      "has_synced": true,
+      "path": "select/22_Love_Without_Mercy_Lee_Roy_Parnell.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "What Is Life Without Love",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/23_What_Is_Life_Without_Love_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Working Without a Net",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/24_Working_Without_a_Net_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Without You (Feat. Usher)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/pl_01_Without_You_(Feat._Usher)_David_Guetta.txt"
+    }
+  ]
+}
